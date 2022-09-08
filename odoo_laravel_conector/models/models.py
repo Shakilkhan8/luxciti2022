@@ -27,3 +27,4 @@ class OdoolaravelConnector(models.Model):
         pass
     def laravel_logout(self):
         pass
+
